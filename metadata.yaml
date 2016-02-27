@@ -1,0 +1,35 @@
+_repo: The-Winter-s-Tale_2248
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: After a nine month visit by Polixenes, King of Bohemia to his childhood
+  friend, Leontes, King of Sicilia, Polixenes, yearns to return to his own kingdom
+  and see his son. Suddenly Leontes is consumed by jealousy and is convinced that
+  his wife Hermione has had an affair with Polixenes. Warned by the courtier Camillo,
+  Polixenes flees for Bohemia. Hermione is tried for treason and her daughter is ordered
+  to be abandoned in a desolate place.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Drama'
+- !lcc 'PR'
+- !lcsh 'Tragicomedy'
+- !lcsh 'Castaways -- Drama'
+- !lcsh 'Sicily (Italy) -- Kings and rulers -- Drama'
+- !lcsh 'Fathers and daughters -- Drama'
+title: The Winter's Tale
+url: http://www.gutenberg.org/ebooks/2248
