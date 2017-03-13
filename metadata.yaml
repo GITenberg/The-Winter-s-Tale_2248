@@ -1,5 +1,8 @@
 _repo: The-Winter-s-Tale_2248
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -17,6 +20,8 @@ description: After a nine month visit by Polixenes, King of Bohemia to his child
   his wife Hermione has had an affair with Polixenes. Warned by the courtier Camillo,
   Polixenes flees for Bohemia. Hermione is tried for treason and her daughter is ordered
   to be abandoned in a desolate place.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2248#The-Winter-s-Tale
 gutenberg_issued: '2000-07-01'
 gutenberg_type: Text
 identifiers:
