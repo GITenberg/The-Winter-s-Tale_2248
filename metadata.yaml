@@ -1,5 +1,5 @@
 _repo: The-Winter-s-Tale_2248
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Castaways -- Drama'
 - !lcsh 'Sicily (Italy) -- Kings and rulers -- Drama'
 - !lcsh 'Fathers and daughters -- Drama'
+- GITenberg
 title: The Winter's Tale
 url: http://www.gutenberg.org/ebooks/2248
